@@ -1,0 +1,15 @@
+#To create Github
+#*************************************************************
+
+#How to push files to github
+
+#git init
+#git add *
+#git commit -m "commit message must be sensible and readable"
+#git config --global user.name "vibeshvidya"
+#git config --global user.email "vibesh.vidya@gmail.com"
+#git remote add origin https://github.com/vibeshvidya/LibraryManager
+#git branch -M main
+#git pull --rebase origin main
+#git push -u origin main
+
